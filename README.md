@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/034/563/813/large/shudhangshu-malakar-education-school-logo.jpg?1612626887" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.dropbox.com/s/yob9vcxwbcvcq5e/school%20logo.jpg?dl=0" width="400"></a></p>
 
 ## About Project
 
