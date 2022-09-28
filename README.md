@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://i.pinimg.com/736x/f3/ee/ca/f3eecab89ed37a8afd2f4beb1b6779cb.jpg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://previews.123rf.com/images/butenkow/butenkow1612/butenkow161204080/67428208-template-design-logo-school-vector-illustration-of-icon.jpg" width="400"></a></p>
 
 ## About Project
 
